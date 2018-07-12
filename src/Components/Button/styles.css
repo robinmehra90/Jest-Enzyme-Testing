@@ -1,0 +1,16 @@
+.primary-button {
+    padding: 10px 25px;
+    background: #f7a000;
+    color: #fff;
+    font-weight: bold;
+    outline: none;
+    border: 2px solid #f7a000;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 100px;
+}
+
+.primary-button:hover {
+   opacity: 0.8;
+}
